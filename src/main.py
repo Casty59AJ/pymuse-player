@@ -1,5 +1,6 @@
 from player import *
 from config import *
+from ui import *
 # from csv_funcs import * # for all the CSV-related functions
 
 class Player(QWidget):
