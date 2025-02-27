@@ -26,4 +26,4 @@ import os
 import time
 import random
 from random import shuffle
-from json import *
+import json
